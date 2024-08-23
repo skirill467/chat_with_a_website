@@ -1,4 +1,4 @@
-# openai_search
+# Chat with a website
 
 Use this open-source template to create a database of any website and query the results using gpt-3.5-turbo (or any model you have access to)
 *Not included is a .env file which you will need to put your chatGPT API key in the format of: API_KEY = <your api key>
