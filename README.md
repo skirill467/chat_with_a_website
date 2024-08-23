@@ -1,7 +1,22 @@
-# Chat with a website
+# Chat With a Website using ChatGPT and RAC
 
 Use this open-source template to create a database of any website and query the results using gpt-3.5-turbo (or any model you have access to)
 *Not included is a .env file which you will need to put your chatGPT API key in the format of: API_KEY = <your api key>
+
+# About
+
+Chat With a Website using LLM is a repository designed to facilitate seamless interactions with websites through Large Language Models (LLMs). This project demonstrates how to leverage LLMs, like GPT-4, to create a conversational interface that can interact with web pages, extract information, and perform tasks based on user queries.
+
+Key Features:
+Website Interaction: Enable users to engage with any website as if they were having a natural conversation.
+Data Extraction: Automatically retrieve and summarize content from websites.
+Task Automation: Perform complex tasks, such as filling out forms or navigating through pages, guided by user commands.
+Customizable Workflows: Easily tailor the LLM’s behavior to specific websites or tasks with minimal configuration.
+This repository is ideal for developers looking to integrate AI-driven chatbots into web-based applications, enhance user experience, or automate web interactions using state-of-the-art language models.
+
+
+
+
 
 # Setup
 
