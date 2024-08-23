@@ -1,0 +1,12 @@
+version: "3.2"
+services:
+  mongodb:
+    image: mongo:6-jammy
+    ports:
+      - '27017:27017'
+    volumes:
+      - kirill_mongo_data:/data/db
+    restart: on-failure
+    
+volumes:
+  kirill_mongo_data:        
